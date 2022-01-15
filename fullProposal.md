@@ -1,9 +1,9 @@
 # Full Composition Proposal 
 
-## Kate Folkenroth
-## Global Health Studies & Integrative Informatics Double Major
+### Kate Folkenroth
+### Global Health Studies & Integrative Informatics Double Major
 
-### Table of Contents:
+#### Table of Contents:
 
 - [Introduction](#Introduction)
 - [Topic & Keywords](#Topic-&-keywords)
@@ -68,11 +68,15 @@ The final product of this project will be seen in three parts: a literature revi
 
 ### Methods
 
+//
+
 ### Global Health Context
+
+//
 
 ### Proposed Timeline
 
-    **Refer to  the Google Doc [table timeline](https://docs.google.com/document/d/15iYUCQDrGj6pOEC7wIS5XwcRpnIFzraK-Unvuwbv_AA/edit?usp=sharing)**
+*Refer to  the Google Doc [table timeline](https://docs.google.com/document/d/15iYUCQDrGj6pOEC7wIS5XwcRpnIFzraK-Unvuwbv_AA/edit?usp=sharing)*
 
 ### Budget
 
