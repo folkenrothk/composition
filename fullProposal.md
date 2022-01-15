@@ -1,7 +1,7 @@
 # Full Composition Proposal 
 
 ### Kate Folkenroth
-### Global Health Studies & Integrative Informatics Double Major
+Global Health Studies & Integrative Informatics Double Major
 
 #### Table of Contents:
 
