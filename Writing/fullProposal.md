@@ -69,6 +69,24 @@ The final product of this project will be seen in three parts: a literature revi
 ### Methods
 
 //
+* Lit Review
+    * build from my current project
+    * look at similar projects
+    * 
+
+* Application
+    * hybrid curation
+    * web framework, form
+    * not database, not anthropology lit review
+    * 
+
+* Reflection
+    * proper ethics
+    * slow archives
+    * archival workflow for future curation
+    * documentation
+    * areas for expansion or further interdisciplinary work
+
 
 ### Global Health Context
 
