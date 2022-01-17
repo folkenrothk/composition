@@ -5,23 +5,86 @@
 
 ### 1.9.2022 Sources 
 
-- `Abrams, 2021
+- Abrams, 2021
     Citation: Abrams, S. (2021). Tacit attitudinal principles for evaluating digital preservation success. *Archival Science 21*, 295–315. https://doi.org/10.1007/s10502-021-09360-5
     
     ```Notes
+        What factors determine if the digital preservation is successful?
+        trustworthiness of data, success, authenticity, legitimate 
+        archival service contracts
+        National Library of Australia
+            digital preservation policy statements
+
+        concept of what happens if we lose the stuff
+        how to quantify trust
+        
+        Accessibility, Integrity, Authenticity and Usability
+
+        Communicative/managerial experience
+        vs artifactual/experiential experience
     ```
 
 
-- `Anderson & Blanke, 2012
+- Anderson & Blanke, 2012
     Citation: Anderson, S., & Blanke, T. (2012). Taking the Long View: From e-Science Humanities to Humanities Digital Ecosystems. *Historical Social Research / Historische Sozialforschung, 37*(3(141)), 147–164. http://www.jstor.org/stable/41636602
 
     ```Notes
+        Importance of research infrastructure 
+        how to move this stuff to the humanities (big data, big structures)
+
+        !Perseus project & otros
+
+        Commodification of content
+        Quality vs format
+
+         Collaborative //  Multidisciplinary // Large data volumes
+        
+        Curartion, preservartion for data creation, use, reuse, and sustainibility
+
+        Cyberinfrastructure
+
+        lots of examples and explanations
+
+
     ```
 
 
-- `Christen & Anderson, 2019
+- Christen & Anderson, 2019
     Citation: Christen, K., & Anderson, J. (2019). Toward slow archives. *Archival Science, 19*(2), 87-116. http://dx.doi.org/10.1007/s10502-019-09307-x
 
+    ```Notes
+        Slow archives, positionality, 
+        community collaboration
+        decolonizing
+
+        Post-custodial, participatory, community archives
+
+        Uphend archives power and stuctures of dominance, erasure and authorial control *PWR &ECON*
+
+        towards fluid ongoing and unperdicitable temporal paths
+
+        TK and labels and workflows
+        help model part 2 of method section
+        
+        Ground the archival system in an ethics of care
+
+        repartirita
+            you know what i meant; this bis pole and the ethical considerations made before  me; focus on how i am working with a culture outside of its context in the US and foreign to me
+
+        Accountability, engagement, relationality, reciprocity
+
+        examples of these platforms
+
+        Parallel and Multiple sets of metadata
+
+        who is the expert*** PWR&ECON
+
+        how stuff works with APIs, search and aggregators
+        
+        neoliberal paradigms of large scale, faster and more
+
+        Product  vs process
+    ```
 
 - Davis, 2017
     Citation: Davis, J. L. (2017). Curation: a theoretical treatment. *Information, Communication & Society, 20*(5), 770-783. https://doi.org/10.1080/1369118X.2016.1203972
@@ -56,8 +119,23 @@
     ```
 
 
-- `Grant, 2017
+- Grant, 2017
     Citation: Grant, R. (2017). Recordkeeping and research data management: a review of perspectives. *Records Management Journal, 27*(2), 159-174. http://dx.doi.org/10.1108/RMJ-10-2016-0036
+
+    ```Notes
+        Relationship between research data and records
+        & between recordkeeping and research data management
+
+        **Lit Review**
+        This is a good lit review methodology to model my own after as I have multiple phases and parts, and am learning and initially including some pieces then removing
+
+        Very good section on why disscussions and terms are hard to distinguish and consistency of terms
+
+        Cites our other sources! Dooley
+        poole / 
+
+        very basic findings tbh, set up of paper is more important than findings
+    ```
 
 
 - Higgins, 2018
