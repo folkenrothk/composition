@@ -19,17 +19,33 @@
 - Mukurtu CMS (Christen & Anderson)
 - Local Contexts (TK Labels)
 
+- DARIAH-DE (Maryl et al.) 
+- Bamboo project
+- ~2 EHRI
+- CENDARI (2012-16)
+- DESIR
+- KPLEX
+- PROVIDEDH
+
 ### Big Players
 - National Library of Austrailia
 - UK Arts and Humanties e-Science programme
 - King's College London
+- DiMPO 
+- DARIAH
+- SPARKLE
+- Oxford Initiative
+- DRAPIer
+
 
 
 
 #### TECH TECH TECH
 
 - Grid (Anderson & Blake)
-- DARIAH
+- DIRT
+- MaxQDA, NVivo, Dedoose, ATLAS.ti
+
 
 #### Authors
 

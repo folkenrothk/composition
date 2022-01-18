@@ -178,6 +178,25 @@
 - `Maryl et al., 2020
     Citation: Maryl, M., Dallas, C., Edmond, J., Labov, J., Kelpšienė, I., Doran, M., Kołodziejska, M., & Grabowska, K. (2020). A Case Study Protocol for Meta-Research into Digital Practices in the Humanities. *Digital Humanities Quarterly, 14*(3). Retrieved from https://www.proquest.com/scholarly-journals/case-study-protocol-meta-research-into-digital/docview/2553556938/se-2
 
+    ```Notes
+        multicase study for meta-research, and adopting this methodology for dif. purposes, disciplines and approaches
+
+        those who may not associate with DH but use digital tools for their work
+
+        micro-practices
+        A broader shift of the whole paradigm of humanities proper
+
+        HYBRID PRACTICES, physical and mental environ
+        space and tooles 
+
+        examples on examples bro
+        
+        systematic review esq results 
+            a couple charts 
+
+        tools and methods should always be dr
+    ```
+
 
 - `Mauthner & Parry, 2013
     Citation: Mauthner, N. S. & Parry, O. (2013). Open Access Digital Data Sharing: Principles, Policies and Practices. *Social Epistemology, 27*(1), 47-67. https://doi.org/10.1080/02691728.2012.760663
