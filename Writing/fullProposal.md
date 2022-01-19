@@ -70,23 +70,47 @@ The final product of this project will be seen in three parts: a literature revi
 
 //
 * Lit Review
-    * build from my current project
-    * look at similar projects
-    * 
+    After this prelimary literature review about "What are the distinguishing characteristics of hybrid curation as a type of long-term data preservation from the persepective of digital humanists?". 
+    This lit review will shift its focus to: 
+    "What practices are currently being used for hybrid curation as an anthopological, digital humanist tool?" ish
+
+    * build from my current lit review with more focus on anthropology/museum studies or similar objects to the bis pole
+
+    * look similar projects or specific objective accomplished by the projects
+        - look at cultural heritage projects
+        - (Anderson & Blanke, 2012)
+
+    * what technology can we use or model after
+        - (Kärberg, 2015), has a lot of tech talk
+        - (Sabharwal, 2017)
+
+    * This lit review will require interesting phases/parts
+        - This is well modeled but (Grant, 2017), this lit review will follow a very similar methodology as Grant's
 
 * Application
     * hybrid curation
-    * web framework, form
-    * not database, not anthropology lit review
+        - (Maryl et al., 2020), very good view of why hybrid and not just digital curation
+    * web framework, form to fill out? 
+    * not database, not full anthropology lit review
     * 
 
 * Reflection
     * proper ethics
-    * slow archives
+        * slow archives
+            - (Christen & Anderson, 2019)
+            * discussion on Pwr & Econ, reflection on decolonizing archives
     * archival workflow for future curation
-    * documentation
-    * areas for expansion or further interdisciplinary work
+        * documentation
+            - (Abrams, 2021)
+            * was it successful? How can we measure this? What should we be recording and looking at?
+            * Accessibility, Integrity, Authenticity, and Usability
+            * The communicative/managerial experience vs the artifactual/ experiential one.
 
+    * areas for expansion or further interdisciplinary work (solidify scale and scope here)
+        * I will not be creating an aggregator or database, rather a model dataset for a single item in the database
+        * I will not be doing the full anthropological lit review of the item. I will just be pulling already complete research with guidance from the department to assure the quality of the exhibition project
+        * I will be setting a model and framework to be applied to all other items donated to the college to make a faster process with room for growth by other students and their projects thus allowing for a student without a cmpsc or informatics background to contribute to the space with their research or a more experienced techincal student to improve features on the cyberinfrastructure. 
+        * I will be starting the groundwork for fluid curation for cross-campus collaboration. 
 
 ### Global Health Context
 
