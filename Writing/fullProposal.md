@@ -53,11 +53,9 @@ Digital Humanities is also known as being project-based and a field of practice.
 
 ### Project Aims 
 
-*edit*, pulled straight from original
-
-My project's primary goal is to create an educational and culturally appropriate hybrid exhibit for the Indonesian bis pole installation. This will be accomplished by completing several smaller steps before achieving this goal.
-*First, I hope to attain a better understanding of the collaboration between analog and digital curation that is seen in hybrid exhibitions. Second, I hope to create a framework of archival workflow focused on ethical displays in a public space for educational purposes.** Lastly, I plan to apply these to the creation of the hybrid exhibit of the bis pole.
-With the completion of these pieces, this project will catalog this artifact while creating an accessible digital archive and analog exhibit. This work would serve as a model for future curation on campus.
+My project's primary goal is to create an ethical, educational, and culturally appropriate hybrid exhibit for the Indonesian bis pole installation. This will be accomplished by completing several smaller goals before achieving this final construct.
+First, I hope to attain an understanding of the ethical considerations of long-term data preservation as seen in hybrid curation. Second, I hope to attain an understanding of how hybrid curation is currently being conducted. Lastly, I hope to create a framework of archival workflow for Allegheny College that is focused on ethical displays in a public space for educational purposes which can be conducted to create the installation. 
+With the completion of these pieces, this project will catalog this artifact while creating an accessible digital archive and analog exhibit. 
 
 
 ### Expected Final Product
