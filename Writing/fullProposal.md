@@ -49,12 +49,14 @@ Digital Humanities is also known as being project-based and a field of practice.
 
 ### Research Question
 
-    How can methods of ethical hybrid curation be applied to an item gifted to the College?
+    How can the methods of hybrid curation be applied to items donated to Allegheny College?
 
 ### Project Aims 
 
 My project's primary goal is to create an ethical, educational, and culturally appropriate hybrid exhibit for the Indonesian bis pole installation. This will be accomplished by completing several smaller goals before achieving this final construct.
+
 First, I hope to attain an understanding of the ethical considerations of long-term data preservation as seen in hybrid curation. Second, I hope to attain an understanding of how hybrid curation is currently being conducted. Lastly, I hope to create a framework of archival workflow for Allegheny College that is focused on ethical displays in a public space for educational purposes which can be conducted to create the installation. 
+
 With the completion of these pieces, this project will catalog this artifact while creating an accessible digital archive and analog exhibit. 
 
 
