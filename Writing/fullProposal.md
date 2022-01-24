@@ -68,8 +68,12 @@ The final product of this project will be seen in three parts: a literature revi
 
 ### Methods
 
-//
-* Lit Review
+Due to the construction of this project, slightly different methods will be engaged to achieve my proposed aims. The project will begin with a literature review building on the preliminary literature review that was conducted for this proposal. The second portion will utilize the knowledge gained from the literature review to utilize the methodology of hybrid curation to create an ethical archival workflow for Allegheny College's specific infrastructure. The final reflective documentation will detail the process of using these methods, elaborate on ethical considerations, and discuss the implications of this work.
+
+The preliminary literature review was focused on the distinguishing characteristics of hybrid curation work in the digital humanities as a form of long-term data preservation. From this search, many specific projects, tools, and services were cited in the descriptions of these scholary articles. The first step will be to conduct a literature review on these projects, objectives, and tools that resemble the item and exhibit that resemble the expected final product.//
+
+
+``` Lit Review
     After this prelimary literature review about "What are the distinguishing characteristics of hybrid curation as a type of long-term data preservation from the persepective of digital humanists?". 
     This lit review will shift its focus to: 
     "What practices are currently being used for hybrid curation as an anthopological, digital humanist tool?" ish
@@ -86,15 +90,25 @@ The final product of this project will be seen in three parts: a literature revi
 
     * This lit review will require interesting phases/parts
         - This is well modeled but (Grant, 2017), this lit review will follow a very similar methodology as Grant's
+```
 
-* Application
+After completing this literature review, I will take these findings and apply them to the creation of the bis pole exhibit. This will be the main focus as it is enacting the hybrid curation methodology. An important consideration is the reasoning to do hybrid rather than just digital curation. While digital curation is sufficent to achieve the goal of long-term data preservation, it does not consider the needs of the current functioning culture on Allegheny College's campus. This gifted item is physical and will be displayed in a public location. Scholars also do not discard their analog methods with the use of new technology for their work (Maryl et al., 2020). The technology and digital archives are seen as an addition to current methods to add different ways of access and preservation to enrich information past what can be done with only analog methods. 
+
+This will require organizing information about bis poles, their//. //I plan to begin by using  Global Health dimensions to guide the organization of the subsections such as the economic background of these wooden scupltures being art-for-export. This has the flexiblity to adjust as I discover what information is available for this piece.//
+ I will be likely displaying this information in a website framework with influence from the technology services discovered in the literature review. With replication and sustainability in mind, a template will likely be created to guide future curation work. The creation of the template should allow for quick and relatively easy input of information to create a functional, accessible, and enriching digital archive. 
+ 
+ This digital work will be paired with the analog exhibit. Interdisciplinary conversation as one of the defining charastics of this work will guide my project to dicussed across disciplines on campus before the final decisions of the differences between the two formats are finalized with their respective content. This work, overall, will act as a model for an ethical archival workflow that can be reused or even improved upon with future iterations. 
+``` Application
     * hybrid curation
         - (Maryl et al., 2020), very good view of why hybrid and not just digital curation
     * web framework, form to fill out? 
     * not database, not full anthropology lit review
     * 
+```
 
-* Reflection
+Lastly, documentation and reflection is important with this work. I will need to formalize my notes and experiences of the application process into a reusable and understandable workflow. Along with this do;; As the work of curators continue to decolonize its practices by adding time for reflexivity (Christen & Anderson, 2019), I will add this time throughout but dedicate this last third of my work to directing future curators through the ethics and other implications of this work. 
+``` Reflection
+
     * proper ethics
         * slow archives
             - (Christen & Anderson, 2019)
@@ -111,6 +125,7 @@ The final product of this project will be seen in three parts: a literature revi
         * I will not be doing the full anthropological lit review of the item. I will just be pulling already complete research with guidance from the department to assure the quality of the exhibition project
         * I will be setting a model and framework to be applied to all other items donated to the college to make a faster process with room for growth by other students and their projects thus allowing for a student without a cmpsc or informatics background to contribute to the space with their research or a more experienced techincal student to improve features on the cyberinfrastructure. 
         * I will be starting the groundwork for fluid curation for cross-campus collaboration. 
+```
 
 ### Global Health Context
 
