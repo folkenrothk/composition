@@ -77,6 +77,26 @@ I will be directing my focus onto specific pieces of the curation workflow as it
 This digital work will be paired with the analog exhibit. Interdisciplinary conversation as one of the defining charastics of this work will guide my project to dicussed across disciplines on campus before the final decisions of the differences between the two formats are finalized with their respective content. This work,
 ```
 
+``` Reflection Notes
+
+    * proper ethics
+        * slow archives
+            - (Christen & Anderson, 2019)
+            * discussion on Pwr & Econ, reflection on decolonizing archives
+    * archival workflow for future curation
+        * documentation
+            - (Abrams, 2021)
+            * was it successful? How can we measure this? What should we be recording and looking at?
+            * Accessibility, Integrity, Authenticity, and Usability
+            * The communicative/managerial experience vs the artifactual/ experiential one.
+
+    * areas for expansion or further interdisciplinary work (solidify scale and scope here)
+        * I will not be creating an aggregator or database, rather a model dataset for a single item in the database
+        * I will not be doing the full anthropological lit review of the item. I will just be pulling already complete research with guidance from the department to assure the quality of the exhibition project
+        * I will be setting a model and framework to be applied to all other items donated to the college to make a faster process with room for growth by other students and their projects thus allowing for a student without a cmpsc or informatics background to contribute to the space with their research or a more experienced techincal student to improve features on the cyberinfrastructure. 
+        * I will be starting the groundwork for fluid curation for cross-campus collaboration. 
+```
+
 ```Old Reflection
 After completing the curation and display, the project will require proper documentation and reflection. The documentation from the process of creating the exhibits will likely be in the form of informal notes during actual creation. I will, first, need to complete a proper composition of the archival workflow I completed and describe the completed project. Lastly, I will take all of the work from literature review and the creation of the exhibits to complete a reflection in terms of the Global Health Studies dimensions. This should be a comprehensive reflection of all of the notes I made throughout the work of this project and look at the larger contexts I have started to consider.
 ```

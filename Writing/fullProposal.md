@@ -74,39 +74,33 @@ This literature review part of my work has two distinct parts. The preliminary l
 
 After completing this literature review, I will take these findings and apply them to the creation of the bis pole exhibit. This will be the main focus of my project as it is enacting the hybrid curation methodology. 
 
-An important decision that has been made is to do hybrid rather than just digital curation. While digital curation is sufficent to achieve the goal of long-term data preservation, it does not consider the needs of the current functioning culture on Allegheny College's campus. This gifted item is a physical object and will be displayed in a public location on the campus. A physical installation with placards for the object has already been determined as part of the final product. The technology and digital archives are seen as an addition to current methods to add different ways of access and preservation to enrich information past what can be done with only analog methods (FIND ARTICLE). 
+An important decision that has been made is to do hybrid rather than just digital curation. While digital curation is sufficent to achieve the goal of long-term data preservation, it does not consider the needs of the current functioning culture on Allegheny College's campus. This gifted item is a physical object and will be displayed in a public location on the campus. A physical installation with placards for the object has already been determined as part of the final product. Often scholarly practices still include both analog and digital methods and work today when engaging with archives and research (Maryl et al., 2020). The technology and digital archives are seen as an addition to current methods to add different ways of access and preservation to enrich information past what can be done with only analog methods (!FIND ARTICLE, ?Siddiqui, 2015). This reasoning further advances the necessity to complete this project with hybrid curation rather than just digital. 
 
-One of the ways to add meaning to the archive is the ability to reorganize and link data, which capacities only increase with the digital format. This work for the hybrid display will require organizing and connecting this display to information about bis poles. I plan to begin by using  Global Health dimensions to guide the organization of the subsections such as the economic background of these wooden scupltures being art-for-export. This has the flexiblity to adjust as I discover what information is available for this piece.
+One of the ways to add meaning to the archive is the ability to reorganize and link data, which capacities only increase with the digital format. This work for the hybrid display will require organizing and connecting this display to information about bis poles. I will be likely displaying this information in a website framework with influence from the technology services discovered in the literature review. I plan to begin oraganizing the information by using  Global Health dimensions to guide the organization of the subsections such as the economic background of these wooden scupltures being art-for-export. This has the flexiblity to adjust as I discover what information is available for this piece.
 
-I will be likely displaying this information in a website framework with influence from the technology services discovered in the literature review. With replication and sustainability in mind, a template will likely be created to guide future curation work. The creation of the template should allow for quick and relatively easy input of information to create a functional, accessible, and enriching digital archive. 
- 
- 
-overall, will act as a model for an ethical archival workflow that can be reused or even improved upon with future iterations. 
+With replication and sustainability in mind, a template or bare framework will likely be created to guide future curation work. The creation of this template should allow for quick and relatively easy input of information to create a functional, accessible, and enriching digital archive. My work of adding the additional sections will act as a guide future curation that can build upon the basic template.Overall, this application of hybrid curation will act as a model for an ethical archival workflow that can be reused or even improved upon with future iterations. 
 
-////
+Lastly, documentation and reflection is important with this work. After finishing the display, I will need to formalize my notes and experiences of the application process into a reusable and understandable workflow. This will only be feasible, logistically, with work integrated into all parts of the project with extra dedicated time towards the conclusion. 
 
-Lastly, documentation and reflection is important with this work. I will need to formalize my notes and experiences of the application process into a reusable and understandable workflow. Along with this do//
+As curators continue to decolonize their practices by adding time for reflexivity (Christen & Anderson, 2019), I will add this time throughout my process but dedicate this last third of my work to reflexivity. The documentation should and will include conversations and thought process around actively incorporating ethics considering other implications of this work. This workwill function with disintermediation (Sabharwal, 2017) which is one of the large converstaion occuring amongst curators and other digital humanists. Other considerations such as representation and power will be heavily considered as well as this display is out of the context of the culture and society it is representing and created by curators.
 
-As curators continue to decolonize their practices by adding time for reflexivity (Christen & Anderson, 2019), I will add this time throughout my process but dedicate this last third of my work to reflexivity. The documentation should and will include conversations and thought process around actively incorporating ethics and "processing" other implications of this work. 
-``` Reflection
+These ethical considerations lead into how to measure the success of the exhibit. This construct of success cannot be directly or indirectly observed. Abrams (2021) suggests from their research that we can use the proxies of accessibility, integrity, authenticity, and usability to gauge the success of an archive. This will lead me to interdisiplinary collaboration as we work through these questions of how to successfully use digital tools for a functional final product while conveying the integrity of the exhibit as I act in the role of curator.  
 
-    * proper ethics
-        * slow archives
-            - (Christen & Anderson, 2019)
-            * discussion on Pwr & Econ, reflection on decolonizing archives
-    * archival workflow for future curation
-        * documentation
-            - (Abrams, 2021)
-            * was it successful? How can we measure this? What should we be recording and looking at?
-            * Accessibility, Integrity, Authenticity, and Usability
-            * The communicative/managerial experience vs the artifactual/ experiential one.
+```References
+- Abrams, S. (2021). Tacit attitudinal principles for evaluating digital preservation success. *Archival Science, 21*, 295–315. https://doi.org/10.1007/s10502-021-09360-5
 
-    * areas for expansion or further interdisciplinary work (solidify scale and scope here)
-        * I will not be creating an aggregator or database, rather a model dataset for a single item in the database
-        * I will not be doing the full anthropological lit review of the item. I will just be pulling already complete research with guidance from the department to assure the quality of the exhibition project
-        * I will be setting a model and framework to be applied to all other items donated to the college to make a faster process with room for growth by other students and their projects thus allowing for a student without a cmpsc or informatics background to contribute to the space with their research or a more experienced techincal student to improve features on the cyberinfrastructure. 
-        * I will be starting the groundwork for fluid curation for cross-campus collaboration. 
+- Christen, K., & Anderson, J. (2019). Toward slow archives. *Archival Science, 19*(2), 87-116. http://dx.doi.org/10.1007/s10502-019-09307-x
+
+- Grant, R. (2017). Recordkeeping and research data management: a review of perspectives. *Records Management Journal, 27*(2), 159-174. http://dx.doi.org/10.1108/RMJ-10-2016-0036
+
+- Maryl, M., Dallas, C., Edmond, J., Labov, J., Kelpšienė, I., Doran, M., Kołodziejska, M., & Grabowska, K. (2020). A Case Study Protocol for Meta-Research into Digital Practices in the Humanities. *Digital Humanities Quarterly, 14*(3). Retrieved from https://www.proquest.com/scholarly-journals/case-study-protocol-meta-research-into-digital/docview/2553556938/se-2
+
+- Sabharwal, A. (2017). Digital humanities and the emerging framework for digital curation, *College & Undergraduate Libraries, 24*:2-4, 238-256. https://doi.org/10.1080/10691316.2017.1336953
+
+- Siddiqui, N. (2015). Data Assemblages: A Call to Conceptualize Materiality in the Academic Ecosystem. *Digital Humanities Quarterly, 9*(2). Retrieved from https://www.proquest.com/scholarly-journals/data-assemblages-call-conceptualize-materiality/docview/2555207843/se-2
+
 ```
+
 
 ### Global Health Context
 
