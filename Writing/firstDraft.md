@@ -31,14 +31,55 @@ With the completion of these pieces, this project will catalog this artifact whi
 The final product of this project will be seen in three parts: a literature review, an exhibition, and a final reflective composition. The literature review will be on the methodology of hybrid curation. This literature will then be applied as the methodology is used to create a hybrid exhibit of the Indonesian bis pole gifted to Allegheny College. Lastly, the final composition will surmise the process and application while reflecting on the implications of this work in the field of Global Health. Due to the nature of this project, the analog exhibition will be displayed publicly on the campus of Allegheny College in Meadville, Pennsylvania. The digital display of this exhibit will be featured through Allegheny Web services and may be accessed publicly through the internet or through the QR codes that are posted on placards in the physical exhibition. 
 
 ### Methods
-For each part of my final product, slightly different methods will be engaged to achieve my proposed aims. The project will begin with a literature review. The second portion will utilize the knowledge gained from the literature review to enact a methodology of hybrid curation. The final reflective composition will detail the process of using these methods.
 
+```Old Intro
+For each part of my final product, slightly different methods will be engaged to achieve my proposed aims. The project will begin with a literature review. The second portion will utilize the knowledge gained from the literature review to enact a methodology of hybrid curation. The final reflective composition will detail the process of using these methods.
+```
+
+``` Lit Review Bullet Notes
+    After this prelimary literature review about "What are the distinguishing characteristics of hybrid curation as a type of long-term data preservation from the persepective of digital humanists?". 
+    This lit review will shift its focus to: 
+    "What practices are currently being used for hybrid curation as an anthopological, digital humanist tool?" ish
+
+    * build from my current lit review with more focus on anthropology/museum studies or similar objects to the bis pole
+
+    * look similar projects or specific objective accomplished by the projects
+        - look at cultural heritage projects
+        - (Anderson & Blanke, 2012)
+
+    * what technology can we use or model after
+        - (Kärberg, 2015), has a lot of tech talk
+        - (Sabharwal, 2017)
+
+    * This lit review will require interesting phases/parts
+        - This is well modeled but (Grant, 2017), this lit review will follow a very similar methodology as Grant's
+```
+
+```Old Lit Review
 My primary literature review will focus on the current practices of hybrid curation. I will be using the Peltier Library AggreGator Web services and the subsequent databases utilized through this program. Through introductory findings, I have found that one database has not been sufficient to cover the interdisciplinary and novelty of the subject I am studying. The terminology in the curation speciality of digital humanities has been constantly changing with each scholarly published piece in the last year. This discipline has increased in popularity, and just recently, came onto the global stage. With this in mind, I have discovered that this work relies heavily on "seed articles" which allow me to enter the specific vein of digital humanities focused on curation practices. Currently, I am using the keywords "ethical hybrid curation OR display OR digital curation."  For further investigation, I plan to use "digital humanities hybrid curation OR exhibition" as well as source mining the relevant works I have already collected. Filters selected for these searches have been scholarly & peer-reviewed, journal articles, books/eBooks, and published in the last 5 years. When screening for relevant pieces, I remove all that reflect biology or chemistry subjects such as "genomic curation".
 I will also have a small literature review completed with the help of other scholars to organize the information that will be presented in the exhibit. This process relies on using the same databases due to the lack of specific locations for this subject of the bispole in scholarly literature. Since this work has already been started, I will focus on recent publications that have been added to the discourse on Indonesian and Asmat wood carving. I am using the keywords "art curation AND Asmat AND bis pole OR wood carving" with scholarly and peer-reviewed publications in the last 10 years. I have also been on a specific search for museum exhibitions on the Asmat culture and wood carving or that feature bispoles. This has required a search in the database World Cat with the keywords "Asmat exhibition OR bispole exhibition" to surmise the exhibits. 
+```
+
+``` Application Notes
+    * hybrid curation
+        - (Maryl et al., 2020), very good view of why hybrid and not just digital curation
+    * web framework, form to fill out? 
+    * not database, not full anthropology lit review
+    * 
+```
+
+```Old Application
 After completing these literature reviews, I will take these findings and apply them into the creation of a display for the installation of bis pole sculpture. The curation methodology, within the digital humanities lens, is broken down into three levels. According to Arjun Sabharwal in his chapter defining digital curation, "... one level [is] for working with the digital files and the technology to preserve them, another one to exercise intellectual control, and a third one for scholarly processing" (2015, p. 17). This concept of levels is important to keep in mind as I manage the scale and scope of this project. I will be utilizing the work done by others as the source of the information I will be using for the display, not creating this portion by myself. This will also be assisted by faculty members representing their respective departments and specialities to complete important considerations of this project. Topics such as the culture and society in Southeast Asia and Pacific, art history and curation, and assistance with digital humanities work will be shared work.
 I will be directing my focus onto specific pieces of the curation workflow as it is not a finite process. The workflow is not specified in documents but digital curation has worked to define a "lifecycle" of data. Within the digital content lifecycle, Sabharwal compares these activities in two groups as "...for instance, conceptualization, appraisal, selection, access, and preservation…" from "...creating, ingesting, storing, disposing (or migrating), and transforming"  (2015, p. 17). My project will focus on the conceptualization, access, creating, and transforming of the information around the bispole. With faculty assistance, we can discuss selection, preservation, and storing. My project will also bring ethical concepts into conversation with all these responsibilities. 
+```
 
+``` Application scraps
+This digital work will be paired with the analog exhibit. Interdisciplinary conversation as one of the defining charastics of this work will guide my project to dicussed across disciplines on campus before the final decisions of the differences between the two formats are finalized with their respective content. This work,
+```
+
+```Old Reflection
 After completing the curation and display, the project will require proper documentation and reflection. The documentation from the process of creating the exhibits will likely be in the form of informal notes during actual creation. I will, first, need to complete a proper composition of the archival workflow I completed and describe the completed project. Lastly, I will take all of the work from literature review and the creation of the exhibits to complete a reflection in terms of the Global Health Studies dimensions. This should be a comprehensive reflection of all of the notes I made throughout the work of this project and look at the larger contexts I have started to consider.
+```
 
 ### Global Health Context
 
