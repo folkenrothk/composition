@@ -269,9 +269,59 @@
     Citation: Siddiqui, N. (2015). Data Assemblages: A Call to Conceptualize Materiality in the Academic Ecosystem. *Digital Humanities Quarterly, 9*(2). Retrieved from https://www.proquest.com/scholarly-journals/data-assemblages-call-conceptualize-materiality/docview/2555207843/se-2
 
 
-- `Slingerland et al., 2020
+- Slingerland et al., 2020
     Citation: Slingerland, E., Atkinson, Q. D., Ember, C. R., Sheehan, O., Muthukrishna, M., Bulbulia, J., & Gray, R. D. (2020). Coding culture: challenges and recommendations for comparative cultural databases. *Evolutionary Human Sciences, 9*(2). http://dx.doi.org/10.1017/ehs.2020.30
 
-- `Virkus & Garoufallou 2019
+    ```Highlights
+    Major challenges and Best Practices
+    Tech - coding, oop etc
+    Reproducibility, transparency, sustainibilty, extensibility
+    examples
+    ```
+
+    ```Notes
+        looking for standards to data collection, organization, and analysis ;; Introduce practicle guidelines
+        Major challenges and Best Practices
+
+        examples on examples
+
+        coding and collating
+        
+    critical role of theory and research goals
+    qual to quant
+    transparency -- evalution, uncertainty, reproducibility
+    sustainibility and extensibility
+        OOP
+
+
+    ```
+
+- Virkus & Garoufallou 2019
     Citation: Virkus, S., & Garoufallou, E. (2019). Data science from a library and information science perspective. *Data Technologies and Applications, 53*(4), 422-441. http://dx.doi.org/10.1108/DTA-05-2019-0076
 
+    ```Hightlights
+        Verbs of methods of curation
+        Interdisciplinary 
+        What things they do or are expected to 
+        New field talk at conclusion
+            Lit Review style
+    ```
+
+    ```Notes
+        Purpose: look at the skills required from LIS 
+            Main tendencies; publication yrs, doc types, countries, source titles, authors,
+            Main Themes 
+
+        Cmpsc, post 2015 
+        Interdisciplinary nature
+        Six broad themes
+
+        Lit Review used
+
+        roles done by data scientist
+        5 main skill groups
+
+        New field etc 
+    ```
+
+  
