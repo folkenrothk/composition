@@ -7,6 +7,10 @@
 
 - Abrams, 2021
     Citation: Abrams, S. (2021). Tacit attitudinal principles for evaluating digital preservation success. *Archival Science 21*, 295–315. https://doi.org/10.1007/s10502-021-09360-5
+
+    ```Highlights
+        How to measure success?
+    ```
     
     ```Notes
         What factors determine if the digital preservation is successful?
@@ -27,6 +31,10 @@
 
 - Anderson & Blanke, 2012
     Citation: Anderson, S., & Blanke, T. (2012). Taking the Long View: From e-Science Humanities to Humanities Digital Ecosystems. *Historical Social Research / Historische Sozialforschung, 37*(3(141)), 147–164. http://www.jstor.org/stable/41636602
+
+    ```Highlights
+        Evolution of Curation to what it is now
+    ```
 
     ```Notes
         Importance of research infrastructure 
@@ -51,6 +59,10 @@
 
 - Christen & Anderson, 2019
     Citation: Christen, K., & Anderson, J. (2019). Toward slow archives. *Archival Science, 19*(2), 87-116. http://dx.doi.org/10.1007/s10502-019-09307-x
+
+    ```Highlights
+        Slow Archives, Decolonize, Ethical Archives
+    ```
 
     ```Notes
         Slow archives, positionality, 
@@ -89,6 +101,10 @@
 - Davis, 2017
     Citation: Davis, J. L. (2017). Curation: a theoretical treatment. *Information, Communication & Society, 20*(5), 770-783. https://doi.org/10.1080/1369118X.2016.1203972
     
+    ```Highlights
+        Differeniation of curations, verbs
+    ```
+
     ```Notes
     	Curation focus
         Verbs but theory imposing
@@ -100,6 +116,10 @@
 
 - Forkosh Baruch & Gadot, 2021
     Citation: Forkosh Baruch, A., & Gadot, R. (2021). Social Curation Experience: Towards Authentic Learning in Preservice Teacher Training. *Tech Know Learn 26*, 105–122. https://doi.org/10.1007/s10758-020-09449-3
+
+    ```Highlights
+        Benefits and importance of Curation, an educational tool
+    ```
 
     ```Notes
         I forgot how much of this was about social media and teaching.. Not a bad article still has relevant definitions and findings about the benefits/importance of the curation process in general. Could feature in the final product as a reason why we are promoting this work and creating a framework for other students so they can focus on developing the skills rather than get stuck in the methodology like me
@@ -122,6 +142,10 @@
 - Grant, 2017
     Citation: Grant, R. (2017). Recordkeeping and research data management: a review of perspectives. *Records Management Journal, 27*(2), 159-174. http://dx.doi.org/10.1108/RMJ-10-2016-0036
 
+    ```Highlights
+        Lit Review on Data management
+    ```
+
     ```Notes
         Relationship between research data and records
         & between recordkeeping and research data management
@@ -141,6 +165,10 @@
 - Higgins, 2018
     Citation: Higgins, S. (2018). Digital curation: the development of a discipline within information science. *Journal of Documentation, 74*(6), 1318-1338. http://dx.doi.org/10.1108/JD-02-2018-0024
 
+    ```Hightlights
+        Evolution of Curation, why its hard to define and pin down
+    ```
+
     ```Notes
     	How digital curation fits in with all the disciplines and its origin
         "Sub-meta-discipline"
@@ -158,6 +186,10 @@
 - Kärberg, 2015
     Citation: Kärberg, T. (2015). Digital preservation of knowledge in the public sector: a pre-ingest tool. *Archival Science 15*, 83–95. https://doi.org/10.1007/s10502-013-9211-z
 
+    ```Highlights
+        Preingest activites to improve quality of archive
+    ```
+
     ```Notes
     	Long term digital data preservation methods
         Activities to do as you are creating the digital data
@@ -173,6 +205,10 @@
 
 - Karcher et al., 2021
     Citation: Karcher, S., Kirilova, D., Pagé, C., & Weber, N. (2021). How data curation enables epistemically responsible reuse of qualitative data. *The Qualitative Report, 26*(6), 1996-2010. http://dx.doi.org/10.46743/2160-3715/2021.5012
+
+    ```Highlights
+        How to share and reuse qual data
+    ```
 
     ```Notes
         data sharing, and reuse
@@ -193,6 +229,10 @@
 
 - Maryl et al., 2020
     Citation: Maryl, M., Dallas, C., Edmond, J., Labov, J., Kelpšienė, I., Doran, M., Kołodziejska, M., & Grabowska, K. (2020). A Case Study Protocol for Meta-Research into Digital Practices in the Humanities. *Digital Humanities Quarterly, 14*(3). Retrieved from https://www.proquest.com/scholarly-journals/case-study-protocol-meta-research-into-digital/docview/2553556938/se-2
+
+    ```Hightlights
+        Why to do hybrid curation, how other people are doing it but not being DH etc
+    ```
 
     ```Notes
         multicase study for meta-research, and adopting this methodology for dif. purposes, disciplines and approaches
@@ -219,8 +259,18 @@
     ```
 
 
-- `Mauthner & Parry, 2013
+- Mauthner & Parry, 2013
     Citation: Mauthner, N. S. & Parry, O. (2013). Open Access Digital Data Sharing: Principles, Policies and Practices. *Social Epistemology, 27*(1), 47-67. https://doi.org/10.1080/02691728.2012.760663
+
+    ```Hightlights
+
+    ```
+
+    ```Notes
+        Open access (completely) / Data sharing
+    
+    
+    ```
 
 
 - `McCarthy et al., 2015
