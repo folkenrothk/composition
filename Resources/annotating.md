@@ -171,11 +171,27 @@
         The positions of traditional and new archivists
     ```
 
-- `Karcher et al., 2021
+- Karcher et al., 2021
     Citation: Karcher, S., Kirilova, D., Pagé, C., & Weber, N. (2021). How data curation enables epistemically responsible reuse of qualitative data. *The Qualitative Report, 26*(6), 1996-2010. http://dx.doi.org/10.46743/2160-3715/2021.5012
 
+    ```Notes
+        data sharing, and reuse
+        data management practices, 
+            storage and documentation/ organization
+        collaborative curation practices, 
+            properly contextualized, sharing occurs ethically and repectfully
+        and technological advances
+            examples // no just data but also memos and og coding, richer understanding of og research and informed reuse
 
-- `Maryl et al., 2020
+        3 examples of qual data reuse
+
+        examples, tech talk
+        metadata
+        
+        life cycle of data > reuse
+    ```
+
+- Maryl et al., 2020
     Citation: Maryl, M., Dallas, C., Edmond, J., Labov, J., Kelpšienė, I., Doran, M., Kołodziejska, M., & Grabowska, K. (2020). A Case Study Protocol for Meta-Research into Digital Practices in the Humanities. *Digital Humanities Quarterly, 14*(3). Retrieved from https://www.proquest.com/scholarly-journals/case-study-protocol-meta-research-into-digital/docview/2553556938/se-2
 
     ```Notes
@@ -194,7 +210,12 @@
         systematic review esq results 
             a couple charts 
 
-        tools and methods should always be dr
+        tools and methods should always be derived from the research question
+
+
+             reflexivity, zoom in and out
+             interdisciplinary 
+             conceptual landscape rather than physical transversing disciplinary and methodologial bounds
     ```
 
 
