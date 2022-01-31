@@ -263,18 +263,42 @@
     Citation: Mauthner, N. S. & Parry, O. (2013). Open Access Digital Data Sharing: Principles, Policies and Practices. *Social Epistemology, 27*(1), 47-67. https://doi.org/10.1080/02691728.2012.760663
 
     ```Hightlights
-
+        Open access and data sharing, and why
     ```
 
     ```Notes
         Open access (completely) / Data sharing
-    
+            reuse - efficient, cost effective
+
+            promote transparency, innovation, progress
+            collaboration
+
+        custodians, stewards
+
+        concerns- misuse, confidentiality
+
+        Scientific (SCI&E)
+        Moral (SR&E)
+        Political (PWR&ECON)
+
+        Suggestions for how to change policies
     
     ```
 
 
-- `McCarthy et al., 2015
+- McCarthy et al., 2015
     Citation: McCarthy, G., Smith, A., & Jones, M. (2015). Looking Beyond the Archive: Utilizing Encoded Archival Context in a Broader Societal Context. *Journal of Archival Organization, 12*: 1-2, 143-164. https://doi.org/10.1080/15332748.2015.1001206
+
+    ```Hightlights
+
+    ```
+    
+    ```Notes
+        using EAC, background to implementation
+
+        good examples
+        raw code (uncooked and tasty)
+    ```
 
 
 - Poole, 2013
