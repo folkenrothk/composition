@@ -290,7 +290,7 @@
     Citation: McCarthy, G., Smith, A., & Jones, M. (2015). Looking Beyond the Archive: Utilizing Encoded Archival Context in a Broader Societal Context. *Journal of Archival Organization, 12*: 1-2, 143-164. https://doi.org/10.1080/15332748.2015.1001206
 
     ```Hightlights
-
+        Tech and examples, New dissemination model by using EAC
     ```
     
     ```Notes
@@ -298,6 +298,10 @@
 
         good examples
         raw code (uncooked and tasty)
+            austrailian oraphanges
+        Usability and testing
+            how to find stuff/ label efficiently
+        Developing a dissemination model
     ```
 
 
@@ -325,8 +329,36 @@
 
 
 
-- `Post & Chassanoff, 2021
+- Post & Chassanoff, 2021
     Citation: Post, C., & Chassanoff, A. (2021). Beyond the workflow: Archivists’ aspirations for digital curation practices. *Archival Science 21*, 413–432. https://doi.org/10.1007/s10502-021-09365-0
+
+    ```Highlights
+    ** v good Hits legit everything
+        How to build a workflow and why
+    ```
+
+    ```Notes
+        workflow documentation and improve digital curation tools, systems, and practices
+        from looking at 12 cultural heritage sites
+            * good examples & tech
+
+            "Rather, it is a complex field with a significant set of ethical dimensions."
+                Sociotechnical and Organizational factors
+
+                Dynamic Recursive
+
+
+            Goals for workflow
+            - for tech and tools
+            - for staff
+            - for organizations
+
+            Scaling up
+                - slowing down
+
+        Not 1 size fits all, must be developed one institution at a time
+
+    ```
 
 
 - Sabharwal, 2017
@@ -354,6 +386,14 @@
 
 - `Sabharwal, 2021
     Citation: Sabharwal, A. (2021). Functional Frameworks for Socialized Digital Curation: Curatorial Interventions and Curation Spaces in Archives and Libraries. *Library Trends, 69*(3), 672-695. http://doi.org/10.1353/lib.2021.0009
+
+    ```Highlights
+
+    ```
+
+    ```Notes
+    
+    ```
 
 
 - `Sheffer & Hunker, 2019
