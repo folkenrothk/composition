@@ -62,9 +62,7 @@ With the completion of these pieces, this project will catalog this artifact whi
 
 ### Expected Final Product
 
-*edit*, pulled straight from original
-
-The final product of this project will be seen in three parts: a literature review, an exhibition, and a final reflective composition. The literature review will be on the methodology of hybrid curation. This literature will then be applied as the methodology is used to create a hybrid exhibit of the Indonesian bis pole gifted to Allegheny College. Lastly, the final composition will surmise the process and application while reflecting on the implications of this work in the field of Global Health. Due to the nature of this project, the analog exhibition will be displayed publicly on the campus of Allegheny College in Meadville, Pennsylvania. The digital display of this exhibit will be featured through Allegheny Web services and may be accessed publicly through the internet or through the QR codes that are posted on placards in the physical exhibition. 
+The final product of this project will be seen in three parts: a literature review, an exhibition, and a final reflective composition. The literature review will focus on the current practices and uses of hybrid curation. This knowledge will then be applied as the methodology to create a hybrid exhibit for the donated Indonesian bis pole. Lastly, the final composition will surmise the process and application of hybrid curation while reflecting on the implications of this work in the fields of Global Health and Informatics. Due to the nature of this project, the analog exhibition will be displayed publicly on the campus of Allegheny College in Meadville, Pennsylvania. The digital display of this exhibit will be featured through the institution's web services and may be accessed publicly through the internet or through the QR codes that will be displayed on placards in the physical exhibition.  
 
 ### Methods
 
