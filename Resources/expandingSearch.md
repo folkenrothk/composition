@@ -3,6 +3,7 @@
 
 
 #### Projects
+
 ```(Anderson & Blake)
 - *Perseus  
 - Europeana
@@ -84,6 +85,7 @@
 - case study - Digital Public Library of America 
 
 #### Big Players
+
 - National Library of Australia
 - UK Arts and Humanties e-Science programme
 - King's College London

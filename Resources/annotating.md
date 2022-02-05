@@ -445,7 +445,7 @@ For optimal experience, use Adobe Acrobat to view PDF sources to see my annotati
 
     ```
 
-- `Siddiqui, 2015
+- Siddiqui, 2015
     Citation: Siddiqui, N. (2015). Data Assemblages: A Call to Conceptualize Materiality in the Academic Ecosystem. *Digital Humanities Quarterly, 9*(2). Retrieved from https://www.proquest.com/scholarly-journals/data-assemblages-call-conceptualize-materiality/docview/2555207843/se-2
 
     ```Highlights
