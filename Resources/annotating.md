@@ -3,6 +3,8 @@
 ## Chomping Comps
 ## Kate Folkenroth
 
+For optimal experience, use Adobe Acrobat to view PDF sources to see my annotations.
+
 ### 1.9.2022 Sources 
 
 - Abrams, 2021
@@ -384,15 +386,37 @@
     ```
 
 
-- `Sabharwal, 2021
+- Sabharwal, 2021
     Citation: Sabharwal, A. (2021). Functional Frameworks for Socialized Digital Curation: Curatorial Interventions and Curation Spaces in Archives and Libraries. *Library Trends, 69*(3), 672-695. http://doi.org/10.1353/lib.2021.0009
 
     ```Highlights
-
+        Curation interventions; so many examples
     ```
 
     ```Notes
     
+        3 curation interventions, interlinking, knowledge organization, and documentationn, to join disconnected uninteroperable fragments
+
+        Coordinating preservation with collaborative approaches to curating cultural heritage, community memory, scholarly  knowledge
+
+        Socialized Digital Curation
+
+        definitions on definitions
+
+        so many examples
+
+        digital surrogates and metadata records 
+
+        Curators role of providing meaningful structure and context to visitors
+            (Interlinking) - Unidirectional, Bidirectional
+
+        KO - ontological, organizational, and cultural dimensions
+            relied on metadata work
+            inter operability (foundational, structural, semantic, organizational;; metadata)
+             
+            menu, search engines, database, textfile
+
+
     ```
 
 
