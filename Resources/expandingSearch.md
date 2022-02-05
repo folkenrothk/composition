@@ -3,8 +3,8 @@
 
 
 #### Projects
-
-- *Perseus  (Anderson & Blake)
+```(Anderson & Blake)
+- *Perseus  
 - Europeana
 - TELDAP
 - JISC
@@ -15,19 +15,25 @@
 - The White Paper (~Cohen et al. 2011)
 - EHRI (Euro. Holocaust)
 - YadVashem
+```
 
-- Mukurtu CMS (Christen & Anderson)
+```(Christen & Anderson)
+- Mukurtu CMS 
 - Local Contexts (TK Labels)
+```
 
-- DARIAH-DE (Maryl et al.) 
+```(Maryl et al.)
+- DARIAH-DE  
 - Bamboo project
 - ~2 EHRI
 - CENDARI (2012-16)
 - DESIR
 - KPLEX
 - PROVIDEDH
+```
 
-- The African American  Oral History Project (Sab, 2021)
+``` (Sab, 2021)
+- The African American  Oral History Project
 - The Library of Congress Digital Collections site 
 - La Maison D'Haiti
 - The Archive of Immigrant Voices
@@ -69,10 +75,16 @@
 - Anglo-American Cataloguing Rules (AACR)
 - Resource Description and Access
 - Describing Achives: A Content Standard (DACS)
+```
 
+- Lauren Klein's Science Fiction Fanzine Archive (Shef-Hunk,19)
+
+- HathiTrust (Siddiqui)
+- Google Books
+- case study - Digital Public Library of America 
 
 #### Big Players
-- National Library of Austrailia
+- National Library of Australia
 - UK Arts and Humanties e-Science programme
 - King's College London
 - DiMPO 
@@ -81,7 +93,11 @@
 - Oxford Initiative
 - DRAPIer
 
-
+- Harvard's Metalab (Sheffer-Hunker,2019)
+- Standford's Humanities Center
+- MIT's Hyperstudio
+- Northeastern University's NUlab
+- Georgia Tech
 
 
 #### TECH TECH TECH
@@ -107,14 +123,21 @@
 - inviting links, RSS feeds, social buttons
 - CMSs
 
-
-
+- Omeka (Shef-Hunk,2019)
+- Scalar
+- Drupal
+- Wordpress
+- Viewshare
 
 
 #### Authors
 
 - Poole
 - Dooley (2015?)
+- Cohen
+- Cohen and Rosenzsweig (2006) > difficulty of large-scale info  preservation
 
 #### Articles
+
+- Sue Carter Wood "Literacy Artifacts: Perserving Tools, Methods, and Teachers' Technologies of the Long Nineteenth Century
 

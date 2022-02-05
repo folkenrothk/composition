@@ -420,12 +420,52 @@ For optimal experience, use Adobe Acrobat to view PDF sources to see my annotati
     ```
 
 
-- `Sheffer & Hunker, 2019
+- Sheffer & Hunker, 2019
     Citation: Sheffer, J. A., & Hunker, S. D. (2019). Digital Curation: Pedagogy in the Archives. *Pedagogy, 19*(1), 79-105. Retrieved from https://www.muse.jhu.edu/article/712787
 
+    ```Highlights
+    ```
+
+    ```Notes
+        DH, interdisciplinary
+
+        favorite Digital curation def "The term digital curation includes
+        “a wide range of practices of organizing and re-presenting the cultural record of humankind in order to create value, impact, and quality” (Burdick et al. 2012: 34)."
+
+        why teach it to people
+            Critical reading, thinking, writing, and for specific audiences
+            Revelant, Self-reflexive
+            Collaboration
+            Doing traditional while using current tech
+
+            PRODUCE NEW KNOWLEDGE
+
+            How they put it in their classes,
+                skip to findings, results, conclusions
+
+    ```
 
 - `Siddiqui, 2015
     Citation: Siddiqui, N. (2015). Data Assemblages: A Call to Conceptualize Materiality in the Academic Ecosystem. *Digital Humanities Quarterly, 9*(2). Retrieved from https://www.proquest.com/scholarly-journals/data-assemblages-call-conceptualize-materiality/docview/2555207843/se-2
+
+    ```Highlights
+        Why to do this work, and not collect original information
+    ```
+
+    ```Notes
+    okay so i was worried at first but this is great support of why my work will be unoriginal and more of a collection and display of others work. THIS PROVES the curation comp is worth the time, effort, and confronts the question of "originality". Other pieces are better to explain larger implications and importance. 
+    
+    examples bro
+
+    !! its a Lit Review
+    
+    Materials role in the dimensions of data assemblages
+        physical / expressive roles
+        territorial roles
+        coding/decoding 
+
+        case study - Digital Public Library of America
+    ```
 
 
 - Slingerland et al., 2020
