@@ -495,7 +495,7 @@ For optimal experience, use Adobe Acrobat to view PDF sources to see my annotati
 
     ```
 
-- Virkus & Garoufallou 2019
+- Virkus & Garoufallou, 2019
     Citation: Virkus, S., & Garoufallou, E. (2019). Data science from a library and information science perspective. *Data Technologies and Applications, 53*(4), 422-441. http://dx.doi.org/10.1108/DTA-05-2019-0076
 
     ```Hightlights
