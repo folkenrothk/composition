@@ -49,7 +49,7 @@ For optimal experience, use Adobe Acrobat to view PDF sources to see my annotati
 
          Collaborative //  Multidisciplinary // Large data volumes
         
-        Curartion, preservartion for data creation, use, reuse, and sustainibility
+        Curartion, preservation for data creation, use, reuse, and sustainibility
 
         Cyberinfrastructure
 

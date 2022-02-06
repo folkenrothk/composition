@@ -34,7 +34,7 @@
 ```
 
 ``` (Sab, 2021)
-- The African American  Oral History Project
+- The African American Oral History Project
 - The Library of Congress Digital Collections site 
 - La Maison D'Haiti
 - The Archive of Immigrant Voices
@@ -48,7 +48,7 @@
 
 - Palestinian Oral History 
 - Archive of Immigrant Voices
-- Digital Transgender Archiev at the College of the Holy Cross
+- Digital Transgender Archive at the College of the Holy Cross
 - The Facebook page of the San Antonio African American Community Archive & Museum
 - Western Pennsylvania Disability History and Action Consortium
 
@@ -59,7 +59,7 @@
 - the Fiji Museum's Virtual Museum
 - Museum of Flight's Virtual Museum Online 
 - the Smithsonian Latino Center's Smithsonian Latino Virtual Museum
-- the Instityate of Navigation's ION Virtual Museum, the Michigan Shipwreck Research Association's MSRA Virtual Museum
+- the Institute of Navigation's ION Virtual Museum, the Michigan Shipwreck Research Association's MSRA Virtual Museum
 - the Georgia State Bar's Virtual Museum 
 - Toledo's Attic
 
