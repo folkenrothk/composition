@@ -1,5 +1,6 @@
 # Full Composition Proposal 
-
+  Finalized Version: [Folk_Composition_Proposal-HybridCuration](https://docs.google.com/document/d/1zWXhvw7NzvIWN5Ndx5ySJb3VgZJybJxIWcU83UPuMds/edit?usp=sharing)
+  
 ### Kate Folkenroth
 Global Health Studies & Integrative Informatics Double Major
 
