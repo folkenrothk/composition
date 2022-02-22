@@ -5,8 +5,8 @@
 #### Projects
 
 ```(Anderson & Blake)
-- *Perseus  
-- Europeana
+- Perseus  (https://www.perseus.tufts.edu/hopper/)
+- Europeana (https://www.europeana.eu/en)
 - TELDAP
 - JISC
 - e-Dance project
