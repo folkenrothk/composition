@@ -18,7 +18,7 @@
 
 - Europeana
     Site: https://www.europeana.eu/en
-    European Union initative
+    European Union initiative
     mission at the bottom, no dates found yet
 
     Many exhibits > range of intensity 
