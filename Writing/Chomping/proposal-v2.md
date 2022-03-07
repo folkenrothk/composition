@@ -82,6 +82,4 @@ Reflection -- documentation, archival workflow
 
 ### Budget
 
-```Notes
-    Will likely not need a budget anymore
-```
+This project will not require a budget. The texts I am using for my literature review are free and publicly available or accessed through the Allegheny library services. The digital space and software for the digital exhibit are already available under the existing Allegheny digital infrastructure. The potential installation of the gifted item will not be considered as a part of this project.
