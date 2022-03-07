@@ -9,5 +9,10 @@
         {
             "path": "..\\portfolio-folkenrothk"
         }
-    ]
+    ],
+    "settings": {
+        "cSpell.words": [
+            "cyberinfrastructure"
+        ]
+    }
 }
