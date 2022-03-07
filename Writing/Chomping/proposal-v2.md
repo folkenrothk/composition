@@ -52,6 +52,8 @@ The final product of this project will be seen in three parts: a literature revi
 
 ### Methods
 
+Due to the construction of this project, the methods will be uniquely specific to my project to achieve the proposed aims. The project will begin with a literature review and information architecture analysis that will build from the preliminary literature review that was conducted for this proposal. The second portion will utilize the knowledge gained from this first step to utilize the methodology of digital curation to create an ethical archival workflow for Allegheny College's  infrastructure. The final reflective documentation will detail the process of using these methods, elaborate on ethical considerations, and discuss the implications of this work. 
+
 ```Notes
 Lit Review for best practices
 Information architecture analysis
