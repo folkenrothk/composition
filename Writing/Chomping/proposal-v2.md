@@ -38,12 +38,11 @@ How can digital curation be used to promote ethical preservation of information 
 
 ### Project Aims
 
-My project's primary goal is to create an ethical, educational, and culturally appropriate hybrid exhibit for the Indonesian bis pole installation. This will be accomplished by completing several smaller goals before achieving this final construct. 
-```
-NEW GOAL: make sure we are preserving our information/data in a sustainable and ethical way. (make this more tangible? or just wprded better)
-```
-First, I hope to attain an understanding of the current tools and techniques used for long-term data preservation and hybrid curation. Second, I hope to create a framework of archival workflow for Allegheny College. This will be focused on ethical displays in public spaces for educational purposes which can be conducted to create the exhibit for installation. 
-With the completion of these pieces, this project will catalog this artifact while creating an accessible digital archive and analog exhibit.
+My project's primary goal is to use digital curation for  ethical, educational, and sustainable preservation of Indonesian bis pole. This will be accomplished by completing several smaller goals before achieving this final construct. 
+
+First, I hope to attain an understanding of the best practices and current tools used for long-term data preservation and digital curation. Second, I hope to create a framework of archival workflow for Allegheny College. This will be focused on ethical displays in public spaces for educational purposes which can be later used for the creation of an installation. 
+
+With the completion of these pieces, this project will catalog this artifact while creating an accessible digital archive connected to the physical item.
 
 
 ### Expected Final Product
