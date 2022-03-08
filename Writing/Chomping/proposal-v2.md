@@ -52,7 +52,7 @@ The final product of this project will be seen in three parts: a literature revi
 
 ### Methods **
 
-Due to the construction of this project, the methods will be uniquely specific to my project to achieve the proposed aims. The project will begin with a literature review and information architecture analysis that will build from the preliminary literature review that was conducted for this proposal. The second portion will utilize the knowledge gained from this first step to utilize the methodology of digital curation to create an ethical archival workflow for Allegheny College's  infrastructure. The final reflective documentation will detail the process of using these methods, elaborate on ethical considerations, and discuss the implications of this work. 
+Due to the construction of this project, the methods will be uniquely specific to my work to achieve the proposed aims. The project will begin with a literature review and information architecture analysis that will build from the preliminary literature review that was conducted for this proposal. The second portion will utilize the knowledge gained from this first step to utilize the methodology of digital curation to create an ethical archival workflow for Allegheny College's  infrastructure. The final reflective documentation will detail the process of using these methods, elaborate on ethical considerations, and discuss the implications of this work. 
 
 ```Notes
 Lit Review for best practices
@@ -70,10 +70,13 @@ Reflection -- documentation, archival workflow
 ```
 Can we develop themes that hit multiple dimensions? Rather than segmenting by dimension
 ```
-Global Health Studies is an interdisciplinary field that can be pedagogically split into four distinct dimensions: science and the environment, power and economics, ethics and social responsibility, and culture and society. My proposed project intersects with these dimensions on many levels. I will be distinguishing the intersections on the micro-level of my project in respect to the bis pole then move into larger implications of digital curation that connect to global health. 
+Global Health Studies is an interdisciplinary field that can be pedagogically split into four distinct dimensions: science and the environment, power and economics, ethics and social responsibility, and culture and society. My proposed project intersects with these dimensions on many levels. //I will be distinguishing the intersections on the micro-level of my project in respect to the bis pole then move into larger implications of digital curation that connect to global health. ///
 
 *Digital Curation*
-    Just as we will continue to evaluate the status of the bis pole, digital curation methodology has strong connections to global health. 
+
+  Digital curation, overall, is important to //
+    
+  Based in the discipline of computer science, my digital archive will be using the skills of web development. This work will be focused on web accessibility. Mindful of design to be accommodating for those with various needs such as color blindness or who use screen readers.
 
 ```
 Cmpsc, Web Development, Web Accessibility (sci/ social responsibility)   
@@ -82,7 +85,9 @@ Positionality (ethics/ culture/ pwr)
 
 *Indonesian Bis Pole*
 
-    Though we are still confirming the origin and story of this wooden art sculpture, we recognize that this item is an Indonesian (likely Asmat) art-for-export bis pole. My work will only dive deeper into these connections to then be displayed in the archive created through digital curation.
+    Though we are still confirming the origin and story of this wooden art sculpture, we recognize that this item is an Indonesian (likely Asmat) art-for-export bis pole. //
+    
+    My work will only dive deeper into these connections to then be displayed in the archive created through digital curation.
 
 ```
     Material it is made from (resource extraction for a living, tourism, globalization)
@@ -93,6 +98,12 @@ Positionality (ethics/ culture/ pwr)
 
 *Cultural Heritage Preservation*
 
+    Combining these two topics are where my project is adding to the ethics of cultural heritage preservation especially in respect of minimizing harm to the wellbeing of people. 
+
+    Museums have been entering into a larger role of social justice and health //
+    exhibits can place a role in activism, empathy, connection and //
+
+    These concepts in mind, our item requires even more care as it reflects minority/indigenous peoples. These groups are often subject to the worst of the colonialist effects of curation. Though my project will not uproot the whole system of oppression, my work will add to the discussion of more ethical curation.
 ```
  Decolonizing collections //  Culture erasure/preservation (pwr/ culture/ ethics)
  museums and health-- especially with cultural heritage
