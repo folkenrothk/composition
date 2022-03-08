@@ -34,7 +34,7 @@ Would still like to reflect keywords and topic in introduction of lit review
 
 ### Research Question
 
-How can digital curation be used to promote ethical preservation of information of items donated to Allegheny College?
+How can the methods of digital curation be used to promote ethical preservation of information for items donated to Allegheny College?
 
 ### Project Aims
 
@@ -67,18 +67,40 @@ Reflection -- documentation, archival workflow
 ```
 
 ### Global Health Context **
+```
+Can we develop themes that hit multiple dimensions? Rather than segmenting by dimension
+```
+Global Health Studies is an interdisciplinary field that can be pedagogically split into four distinct dimensions: science and the environment, power and economics, ethics and social responsibility, and culture and society. My proposed project intersects with these dimensions on many levels. I will be distinguishing the intersections on the micro-level of my project in respect to the bis pole then move into larger implications of digital curation that connect to global health. 
 
-```Notes
-    Use both sections: 
-     Macro - curation
-     Micro - bis pole
-    Need to find a balance
+*Digital Curation*
+    Just as we will continue to evaluate the status of the bis pole, digital curation methodology has strong connections to global health. 
 
+```
+Cmpsc, Web Development, Web Accessibility (sci/ social responsibility)   
+Positionality (ethics/ culture/ pwr)
+```
+
+*Indonesian Bis Pole*
+
+    Though we are still confirming the origin and story of this wooden art sculpture, we recognize that this item is an Indonesian (likely Asmat) art-for-export bis pole. My work will only dive deeper into these connections to then be displayed in the archive created through digital curation.
+
+```
+    Material it is made from (resource extraction for a living, tourism, globalization)
+    Why it was created
+    Who/what it represents?... history story etc
+```
+
+
+*Cultural Heritage Preservation*
+
+```
+ Decolonizing collections //  Culture erasure/preservation (pwr/ culture/ ethics)
+ museums and health-- especially with cultural heritage
 ```
 
 ### Proposed Timeline
 
-*Refer to Google Docs*
+*Refer to Google Docs: https://docs.google.com/document/d/1mQEpVl6QfEaD3YiRdkefcQTeMpbd5m-P7hO5W5g1ncY/edit?usp=sharing*
 
 ### Budget
 
