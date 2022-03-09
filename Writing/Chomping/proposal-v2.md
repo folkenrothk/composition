@@ -36,6 +36,8 @@ Would still like to reflect keywords and topic in introduction of lit review
 
 How can the methods of digital curation be used to promote ethical preservation of information for items donated to Allegheny College?
 
+How can the methods of digital curation be used to promote ethical cataloging of items donated to Allegheny College?
+
 ### Project Aims
 
 My project's primary goal is to use digital curation for  ethical, educational, and sustainable preservation of Indonesian bis pole. This will be accomplished by completing several smaller goals before achieving this final construct. 
