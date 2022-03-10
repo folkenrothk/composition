@@ -18,25 +18,50 @@ Global Health Studies & Integrative Informatics Double Major
 - [Proposed Timeline](#Proposed-timeline)
 - [Budget](#Budget)
 
-### Introduction **
+### Introduction
 
-```Notes
-bulleted, looking for just outline and re-aligning with the rest of the proposal
+    All over the world, information and communication are becoming more digitized. There is still a need for traditional disseminations of information such as locations like museums and libraries or mediums like posters, physical exhibits or newspapers are being joined by new digital counterparts. Technology has allowed for us to catalog and archive anything anywhere that can be accessed by those with the ability to access the internet. Institutions of various sizes now are able to support their own repositories and archives, rather than just those with strong programs supporting curation. Curation is the process of collecting, selecting, organizing, storing, and displaying items with their respective information. Digital curation does this with digital content, storage, displays and thus acts as a tool for the long-term preservation and access to the necessary resources (Sabharwal, 2015, p. 12). Overall, this work is relatively new as a discipline and common methodology but has begun to develop sets of best practices. These practices have slowly been developing but not standardized as the locations and medium of archived items are quite variable with specific necessities. Allegheny College does not currently have an interdisciplinary standard for archival workflow, especially featuring digital curation, for their items across campus.  
+
+    Of the many items donated to the institution, I have the opportunity to catalog an Indonesian bis pole sculpture. Visually, this piece is a tall cylindrical wooden pole featuring Asmat wood carving techniques as well as including natural elements like shells and grasses along with white, red, and black pigments. This object was created post-1981 (Bocchi, n.d.) and purchased in Jakarta in the early 1990s. Starting with this small piece of information and some visual features, we are able to confirm that this item is an art-for-export piece rather than an Asmat ritual bis pole. The wooden sculpture was created for tourist consumption. This discussion of repatriation is only the start of the archival workflow that should be conducted to properly and ethically catalog items in Allegheny College's archive.
+
+    
+    
 
 ```
+    Information is becoming more and more digitized. Understandably so as well, it reaches larger audiences and allows for long-term storage that seems invincable..
+
+
+    **if nothing else my current classes are teaching me that I should not rely on the internet as an all powerful beast that cannot be destoryed or an impenetrable force that cannot be stopped avoided or changed. Fact of the matter is that the internet is quite the opposite. It is very mutable and should be challenged and changed. And the problems that come from colonialism and structural violence can be avoided with ethical and mindful programmers. 
+
+    Stop putting faith into the All Powerful Internet, put faith in to the diversity and reflexive programmers and users that make the internet what it was, is, and can be.
+    
+    Notes --
+    bulleted, looking for just outline and re-aligning with the rest of the proposal
+
+    Curation > archives museums institutions education > digitization > digital curation /access and long term preservation/ > item
+
+
+    Asmat woodcarving art for export sculpture resembling a tradition bis pole
+    made for tourist consumption
+```
+
 
 ### Literature Review **
 
 ```Notes
 Would still like to reflect keywords and topic in introduction of lit review
 
+Intro more of the digital curation here >> curation developing over time and digital being new and un standardized (subject to curators application of agreed standards) very unique for other spaces >> what is currently happening as digital curation> into current best practices
+
 ```
+
+
 
 ### Research Question
 
 How can the methods of digital curation be used to promote ethical preservation of information for items donated to Allegheny College?
 
-How can the methods of digital curation be used to promote ethical cataloging of items donated to Allegheny College?
+How can the method of digital curation be used to create an archival workflow for items donated to Allegheny College?
 
 ### Project Aims
 
@@ -54,36 +79,50 @@ The final product of this project will be seen in three parts: a literature revi
 
 ### Methods **
 
-Due to the construction of this project, the methods will be uniquely specific to my work to achieve the proposed aims. The project will begin with a literature review and information architecture analysis that will build from the preliminary literature review that was conducted for this proposal. The second portion will utilize the knowledge gained from this first step to utilize the methodology of digital curation to create an ethical archival workflow for Allegheny College's  infrastructure. The final reflective documentation will detail the process of using these methods, elaborate on ethical considerations, and discuss the implications of this work. 
+Due to the construction of this project, the methods will be uniquely specific to my work to achieve the proposed aims. The project will begin with information gathering seen in the form of a literature review paired with an information architecture analysis. This will be followed by application of this information seen in the creation of an archival workflow and catalog the item. The final  documentation will reflect the process of using these methods, elaborate on ethical considerations, and discuss implications of this work. 
+
+Before being able to conduct any work with the donated item, I will work on collecting current information on the methods of digital curation. The literature review will build on the preliminary one conducted for this proposal. It will focus on the current best practices of digital curation. These pieces will then act as guides for websites and tools to analyze for the information architecture analysis. This will focus on how these digital collections are structured and what techniques or tools are being utilized for their archives.
 
 ```Notes
+
+
 Lit Review for best practices
 Information architecture analysis
 
-Application -- coding, 
-    information organization
+Application -- coding, (why just digital)
+    information organization 
 
 Reflection -- documentation, archival workflow
     De colonization, reflexivity
 
+
+
+
+    a literature review and an information architecture analysis that will build from the preliminary literature review that was conducted for this proposal. The second portion will utilize the knowledge gained from this first step to utilize the methodology of digital curation to create an ethical archival workflow for Allegheny College's  infrastructure. The final reflective documentation will detail the process of using these methods, 
+
+
+
 ```
 
 ### Global Health Context **
+
 ```
 Can we develop themes that hit multiple dimensions? Rather than segmenting by dimension
-```
-Global Health Studies is an interdisciplinary field that can be pedagogically split into four distinct dimensions: science and the environment, power and economics, ethics and social responsibility, and culture and society. My proposed project intersects with these dimensions on many levels. //I will be distinguishing the intersections on the micro-level of my project in respect to the bis pole then move into larger implications of digital curation that connect to global health. ///
 
+---
 *Digital Curation*
 
   Digital curation, overall, is important to //
     
   Based in the discipline of computer science, my digital archive will be using the skills of web development. This work will be focused on web accessibility. Mindful of design to be accommodating for those with various needs such as color blindness or who use screen readers.
 
-```
 Cmpsc, Web Development, Web Accessibility (sci/ social responsibility)   
 Positionality (ethics/ culture/ pwr)
 ```
+
+Global Health Studies is an interdisciplinary field that can be pedagogically split into four distinct dimensions: science and the environment, power and economics, ethics and social responsibility, and culture and society. My proposed project intersects with these dimensions on many levels. //I will be distinguishing the intersections on the micro-level of my project in respect to the bis pole then move into larger implications of digital curation that connect to global health. ///
+
+
 
 *Indonesian Bis Pole*
 
@@ -93,12 +132,15 @@ Positionality (ethics/ culture/ pwr)
 
 ```
     Material it is made from (resource extraction for a living, tourism, globalization)
-    Why it was created
+    Why it was created (commodification of culture)
     Who/what it represents?... history story etc
 ```
 
+*Digital Curation*
 
-*Cultural Heritage Preservation*
+    //large picture, musuems can not longer escape the dicussion history memory, understanding, and thus health even if the exhibit does not directly relate to health. 
+
+    *Cultural Heritage Preservation*
 
     Combining these two topics are where my project is adding to the ethics of cultural heritage preservation especially in respect of minimizing harm to the wellbeing of people. 
 
@@ -109,6 +151,9 @@ Positionality (ethics/ culture/ pwr)
 ```
  Decolonizing collections //  Culture erasure/preservation (pwr/ culture/ ethics)
  museums and health-- especially with cultural heritage
+
+ kept for education not exoticism
+
 ```
 
 ### Proposed Timeline
