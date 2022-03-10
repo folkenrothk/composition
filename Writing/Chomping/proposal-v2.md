@@ -20,13 +20,11 @@ Global Health Studies & Integrative Informatics Double Major
 
 ### Introduction
 
-    All over the world, information and communication are becoming more digitized. There is still a need for traditional disseminations of information such as locations like museums and libraries or mediums like posters, physical exhibits or newspapers are being joined by new digital counterparts. Technology has allowed for us to catalog and archive anything anywhere that can be accessed by those with the ability to access the internet. Institutions of various sizes now are able to support their own repositories and archives, rather than just those with strong programs supporting curation. Curation is the process of collecting, selecting, organizing, storing, and displaying items with their respective information. Digital curation does this with digital content, storage, displays and thus acts as a tool for the long-term preservation and access to the necessary resources (Sabharwal, 2015, p. 12). Overall, this work is relatively new as a discipline and common methodology but has begun to develop sets of best practices. These practices have slowly been developing but not standardized as the locations and medium of archived items are quite variable with specific necessities. Allegheny College does not currently have an interdisciplinary standard for archival workflow, especially featuring digital curation, for their items across campus.  
+    All over the world, information and communication are becoming more digitized. There is still a need for traditional disseminations of information seen in locations like museums and libraries or mediums like posters, physical exhibits or newspapers are being joined by new digital counterparts. Technology has allowed for us to catalog and archive anything anywhere that can be accessed by those with the ability to access the internet. Institutions of various sizes now are able to support their own repositories and archives, rather than just those with strong programs supporting curation. Curation is the process of collecting, selecting, organizing, storing, and displaying items with their respective information. Digital curation does this with digital content, storage, displays and thus acts as a tool for the long-term preservation and access to the necessary resources (Sabharwal, 2015, p. 12). Overall, this work is relatively new as a discipline and as common methodology but has begun to develop its own set of best practices. These practices have been quick in development but not standardized as the various locations and mediums of archived items have different needs. Allegheny College does not currently have an interdisciplinary standard for archival workflow, especially featuring digital curation, for their items across campus.  
 
     Of the many items donated to the institution, I have the opportunity to catalog an Indonesian bis pole sculpture. Visually, this piece is a tall cylindrical wooden pole featuring Asmat wood carving techniques as well as including natural elements like shells and grasses along with white, red, and black pigments. This object was created post-1981 (Bocchi, n.d.) and purchased in Jakarta in the early 1990s. Starting with this small piece of information and some visual features, we are able to confirm that this item is an art-for-export piece rather than an Asmat ritual bis pole. The wooden sculpture was created for tourist consumption. This discussion of repatriation is only the start of the archival workflow that should be conducted to properly and ethically catalog items in Allegheny College's archive.
 
     
-    
-
 ```
     Information is becoming more and more digitized. Understandably so as well, it reaches larger audiences and allows for long-term storage that seems invincable..
 
@@ -53,7 +51,15 @@ Would still like to reflect keywords and topic in introduction of lit review
 
 Intro more of the digital curation here >> curation developing over time and digital being new and un standardized (subject to curators application of agreed standards) very unique for other spaces >> what is currently happening as digital curation> into current best practices
 
+Long-term data preservation has been a growing topic of interest throughout the many disciplines. From natural sciences to social sciences to humanities, data is a vital part of the research and work associated with these fields. Curation has been a common type of long-term preservation for items, physical or digital, experiencing some new changes and innovation as technology and needs evolve with time.  While traditional analog and digital methods are still being utilized, hybrid curation has been the approach to achieve a harmony between the two and reach the broadest audiences. 
+
 ```
+
+
+Before being able to start into collecting information on the Indonesian bis pole sculpture, the methodology of digital curation as the umbrella term that it is needed to be understood first. As this dissemination of information has become more digital and applied to the fields of the humanities, new disciplines have emerged, even explicitly called digital humanities. Curation, specifically digital or hybrid, is often seen as a methodology and then own discipline emerging from digital humanities or informatics. This background information guided a larger search for literature on the matter. 
+
+Due to the very interdisciplinary nature of the field, Allegheny College's Pelletier AggreGator was chosen to conduct the search. The keywords entered were "long term data preservation AND hybrid curation AND digital humanities AND (informatics OR anthropology)" to reach the desired articles that featured ethics, anthropology and computer science discourse. This also gives perspective to how digital interacts with analog and traditional practices for those sources that address hybrid methodology. Finally, the filter of "scholarly and peer reviewed" as well as the limit to publications in the last ten years narrowed the search to 74 articles that were combed through to conduct this literature review. Most of these sources addressed the method as digital curation, solidifying my focus only on digital curation. With these available sources, I hope to determine the distinguishing characteristics of digital curation as a process of archiving and long-term data preservation from the perspective of digital humanists to capture the interdisciplinary conversation.
+
 
 
 
@@ -61,7 +67,9 @@ Intro more of the digital curation here >> curation developing over time and dig
 
 How can the methods of digital curation be used to promote ethical preservation of information for items donated to Allegheny College?
 
-How can the method of digital curation be used to create an archival workflow for items donated to Allegheny College?
+How can the method of digital curation be used to create an archival workflow for Allegheny College items not home to a specific discipline?
+
+How can the method of digital curation be used to holistically and ethically catalog items for multidisciplinary education?
 
 ### Project Aims
 
@@ -118,6 +126,10 @@ Can we develop themes that hit multiple dimensions? Rather than segmenting by di
 
 Cmpsc, Web Development, Web Accessibility (sci/ social responsibility)   
 Positionality (ethics/ culture/ pwr)
+
+
+--This composition is still important to the field of global health, though this is not traditionally connected to physical health. Information preservation and dissemination are vital in society for education and improvement. This data is also qualitative which is not often reused due to epistemological differences (Karcher et al., 2021). With distrust in our ability to reuse qualitative data, the study of global health is not optimizing its use of resources, which are so often scarce. This methodology will hopefully start our ability to promote data reuse and sharing. In its interdisciplinary nature, interlinking of sources across disciplines is especially important for global health as we attempt to change perspectives on global issues related to health. This item will be looked at with an interdisciplinary lense to make a well-rounded exhibit featuring economic, religious, societal, and environmental effects on the wellbeing of those who made the item. This project is not entirely focused on the item.  When making an educational display about an item, the effects of making an unethical display harm the wellbeing, especially mental and social, of those who have connection to the item. This has most often been seen with already vulnerable populations and minorities such as indigenous groups. The mediation of curators such as myself with training in global health will not only be looking for how the item itself relates to health but will also strive to improve the methodology we use to cause no harm, now or for future consumers of this exhibit.
+
 ```
 
 Global Health Studies is an interdisciplinary field that can be pedagogically split into four distinct dimensions: science and the environment, power and economics, ethics and social responsibility, and culture and society. My proposed project intersects with these dimensions on many levels. //I will be distinguishing the intersections on the micro-level of my project in respect to the bis pole then move into larger implications of digital curation that connect to global health. ///
