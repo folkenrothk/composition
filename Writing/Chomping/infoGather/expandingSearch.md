@@ -84,6 +84,9 @@
 - Google Books
 - case study - Digital Public Library of America 
 
+- ArtBase
+
+
 #### Big Players
 
 - National Library of Australia
