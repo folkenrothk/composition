@@ -84,8 +84,16 @@
 - Google Books
 - case study - Digital Public Library of America 
 
-- ArtBase
+- ArtBase? (data is plural)
 
+****
+- " A Digital Curation Model (DCM)"
+- "Open Archival Information System reference model" "The overall intention of PREFORMA project "
+- " ArchiveWeb system"
+-  of online Digital Bioarchaeological Data (DBD) use.[
+- !(DiP-CoRE) project
+
+****
 
 #### Big Players
 
