@@ -80,7 +80,7 @@ Last Updated:
 
 
 
-### EHRI -- European Holocaust Research Infrastructure
+### 5 EHRI -- European Holocaust Research Infrastructure
 
 
     >> anderson & blake // maryl et. al // etc
@@ -114,7 +114,7 @@ The EHRI-3 project deepens the integration of Holocaust archives and research th
     https://archiveofimmigrantvoices.omeka.net/
 
 
-### Digital Transgender Archives
+### 10 Digital Transgender Archives
 
     >> Sab 21
     https://www.digitaltransgenderarchive.net/
@@ -142,7 +142,7 @@ The EHRI-3 project deepens the integration of Holocaust archives and research th
     https://www.wpdhac.org/explore-western-pa-disability-history-collections/
 
 
-### Mandela Archives
+### 15 Mandela Archives
     >>SAB 21
 
 https://archive.nelsonmandela.org/
@@ -164,6 +164,7 @@ _HiTHeR_ text mining tool
 _La Maison D'Haiti_ https://www.mhaiti.org/web/
 
 _Dalitcamera.com_ https://www.dalitcamera.com/about/
+DESIR  +++ DARIAH  https://www.dariah.eu/about/mission-vision/ 
 ```
 
 ```
@@ -173,7 +174,7 @@ C&A
 - Local Contexts (TK Labels) >> https://localcontexts.org/
 MEA
 - Bamboo project >> https://www.projectbamboo.org/
-- DESIR  +++ DARIAH  https://www.dariah.eu/about/mission-vision/  // https://www.dariah.eu/activities/projects-and-affiliations/desir/ 
+- DARIAH >> https://www.dariah.eu/activities/projects-and-affiliations/desir/ 
 - KPLEX  >> https://kplex-project.com/
 - PROVIDEDH  >> https://providedh.eu/
 
@@ -182,9 +183,9 @@ MEA
 - The Library of Congress Digital Collections site  >> https://www.loc.gov/collections/
 
 
-- The Mandela Archives
-- Walt Whitman Archive
-- Canadian Museum of History 
+
+- Walt Whitman Archive >> https://whitmanarchive.org/
+- Canadian Museum of History >> https://www.historymuseum.ca/
 - Virtual Museum of New France >> https://www.historymuseum.ca/virtual-museum-of-new-france/
 - the Fiji Museum's Virtual Museum  >> http://virtual.fijimuseum.org.fj/
 - Museum of Flight's Virtual Museum Online >> https://www.museumofflight.org/Explore-The-Museum/Virtual-Museum-Online
@@ -193,18 +194,11 @@ MEA
 - the Michigan Shipwreck Research Association's MSRA Virtual Museum >> https://www.michiganshipwrecks.org/virtual-museum-2 
 - the Georgia State Bar's Virtual Museum >> https://www.thelawmuseum.org/ 
 - Toledo's Attic >> https://toledosattic.org/
-
-PREFORMA project
-
-(DiP-CoRE) project
-
-
-rhizome
-
 ```
 
 
 ``` worth checking out 
+PREFORMA project >> http://www.preforma-project.eu/
 
 - " A Digital Curation Model (DCM)"
 - Describing Achives: A Content Standard (DACS)

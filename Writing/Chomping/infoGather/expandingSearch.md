@@ -9,12 +9,12 @@
 - Europeana (https://www.europeana.eu/en)
 - TELDAP
 - JISC
-- e-Dance project
+5- e-Dance project
 - Medievial Warfare on the Grid Project
 - LaQuAT
 - HiTHeR
 - The White Paper (~Cohen et al. 2011)
-- EHRI (Euro. Holocaust)
+10- EHRI (Euro. Holocaust)
 - YadVashem
 ```
 
@@ -25,7 +25,7 @@
 
 ```(Maryl et al.)
 - DARIAH-DE  
-- Bamboo project
+15- Bamboo project
 - ~2 EHRI
 - CENDARI (2012-16)
 - DESIR
@@ -34,48 +34,47 @@
 ```
 
 ``` (Sab, 2021)
-- The African American Oral History Project
+20- The African American Oral History Project
 - The Library of Congress Digital Collections site 
 - La Maison D'Haiti
 - The Archive of Immigrant Voices
 - Dalitcamera.com
-- Digital Transgender Archives
+25- Digital Transgender Archives
 - Archives of Lesbian Oral Testimony 
 
 - OhioLINK Finding Aid Repository
 - Texas Archival Resources Online
 - Archives of Michigan Online Finding Aids
 
-- Palestinian Oral History 
-- Archive of Immigrant Voices
-- Digital Transgender Archive at the College of the Holy Cross
+30- Palestinian Oral History 
+
 - The Facebook page of the San Antonio African American Community Archive & Museum
 - Western Pennsylvania Disability History and Action Consortium
 
 - The Mandela Archives
 - Walt Whitman Archive
-- Canadian Museum of History 
+35- Canadian Museum of History 
 - Virtual Museum of New France
 - the Fiji Museum's Virtual Museum
 - Museum of Flight's Virtual Museum Online 
 - the Smithsonian Latino Center's Smithsonian Latino Virtual Museum
-- the Institute of Navigation's ION Virtual Museum, the Michigan Shipwreck Research Association's MSRA Virtual Museum
+40- the Institute of Navigation's ION Virtual Museum, the Michigan Shipwreck Research Association's MSRA Virtual Museum
 - the Georgia State Bar's Virtual Museum 
 - Toledo's Attic
 
 - Denbigh Community 
 - Open Archives Initiative Protocol for Metadata Harvesting (OAI-PMH)
-- Dublin Core
+45- Dublin Core
 - Metadata Object Description Schema 
 - Visual Resources Association
 
 // Resources and Rules of Stuff
 - Library of Congress Subject Headings
 - Art and Architecture Thesaurus 
-- Thesaurus for Graphic Materials  (TGM)
+50- Thesaurus for Graphic Materials  (TGM)
 - Anglo-American Cataloguing Rules (AACR)
 - Resource Description and Access
-- Describing Achives: A Content Standard (DACS)
+53- Describing Achives: A Content Standard (DACS)
 ```
 
 - Lauren Klein's Science Fiction Fanzine Archive (Shef-Hunk,19)
