@@ -119,7 +119,40 @@ The EHRI-3 project deepens the integration of Holocaust archives and research th
     >> Sab 21
     https://www.digitaltransgenderarchive.net/
 
-### 11
+### 11 Archives of Lesbian Oral Testimony 
+
+    >> SAB 21
+    https://www.alotarchives.org/?redirected=true
+    https://www.alotarchives.org/bridging-the-gap?redirected=true
+
+
+### Palestinian Oral History 
+
+    https://www.aub.edu.lb/ifi/Pages/poha.aspx
+    https://libraries.aub.edu.lb/poha/
+
+
+
+### Texas A&M University - San Antonio  -- Archives and Special Collections
+    >>SAB 21
+    https://cdm15909.contentdm.oclc.org/
+
+### Western Pennsylvania Disability History and Action Consortium
+    >>SAB 21
+    https://www.wpdhac.org/explore-western-pa-disability-history-collections/
+
+
+### Mandela Archives
+    >>SAB 21
+
+https://archive.nelsonmandela.org/
+
+https://archive.nelsonmandela.org/index.php/za-com-nmap-nelson-mandela-associated-papers
+
+
+
+###
+
 
 
 ```
@@ -149,25 +182,17 @@ MEA
 - The Library of Congress Digital Collections site  >> https://www.loc.gov/collections/
 
 
-
-- Archives of Lesbian Oral Testimony >> https://www.alotarchives.org/?redirected=true
-
-- Palestinian Oral History 
-- Archive of Immigrant Voices
-- Digital Transgender Archive at the College of the Holy Cross
-- The Facebook page of the San Antonio African American Community Archive & Museum
-- Western Pennsylvania Disability History and Action Consortium
-
 - The Mandela Archives
 - Walt Whitman Archive
 - Canadian Museum of History 
-- Virtual Museum of New France
-- the Fiji Museum's Virtual Museum
-- Museum of Flight's Virtual Museum Online 
-- the Smithsonian Latino Center's Smithsonian Latino Virtual Museum
-- the Institute of Navigation's ION Virtual Museum, the Michigan Shipwreck Research Association's MSRA Virtual Museum
-- the Georgia State Bar's Virtual Museum 
-- Toledo's Attic
+- Virtual Museum of New France >> https://www.historymuseum.ca/virtual-museum-of-new-france/
+- the Fiji Museum's Virtual Museum  >> http://virtual.fijimuseum.org.fj/
+- Museum of Flight's Virtual Museum Online >> https://www.museumofflight.org/Explore-The-Museum/Virtual-Museum-Online
+- the Smithsonian Latino Center's Smithsonian Latino Virtual Museum >> https://latino.si.edu/
+- the Institute of Navigation's ION Virtual Museum >> https://www.ion.org/museum/
+- the Michigan Shipwreck Research Association's MSRA Virtual Museum >> https://www.michiganshipwrecks.org/virtual-museum-2 
+- the Georgia State Bar's Virtual Museum >> https://www.thelawmuseum.org/ 
+- Toledo's Attic >> https://toledosattic.org/
 
 PREFORMA project
 
