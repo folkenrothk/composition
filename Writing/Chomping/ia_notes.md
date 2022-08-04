@@ -2,7 +2,7 @@
 
 Goals:
 
-reflect details on technical, ethical, and modern humanities considerations. 
+reflect details on technical, ethical, and modern humanities considerations. modernity
 
 
 accessibility, integrity, authenticity, and usability.
@@ -151,7 +151,35 @@ https://archive.nelsonmandela.org/index.php/za-com-nmap-nelson-mandela-associate
 
 
 
-###
+### Walt Whitman Archive 
+    >> https://whitmanarchive.org/
+
+### Canadian Museum of History 
+    >> https://www.historymuseum.ca/
+
+### Virtual Museum of New France 
+    >> https://www.historymuseum.ca/virtual-museum-of-new-france/
+
+### the Fiji Museum's Virtual Museum  
+    >> http://virtual.fijimuseum.org.fj/
+
+### Museum of Flight's Virtual Museum Online 
+    >> https://www.museumofflight.org/Explore-The-Museum/Virtual-Museum-Online
+
+### the Smithsonian Latino Center's Smithsonian Latino Virtual Museum 
+    >> https://latino.si.edu/
+
+### the Institute of Navigation's ION Virtual Museum 
+    >> https://www.ion.org/museum/
+### the Michigan Shipwreck Research Association's MSRA Virtual Museum 
+    >> https://www.michiganshipwrecks.org/virtual-museum-2 
+
+### the Georgia State Bar's Virtual Museum 
+    >> https://www.thelawmuseum.org/ ** 
+    created for educational purposes
+
+### Toledo's Attic 
+    >> https://toledosattic.org/
 
 
 
@@ -181,27 +209,20 @@ MEA
 
 
 - The Library of Congress Digital Collections site  >> https://www.loc.gov/collections/
-
-
-
-- Walt Whitman Archive >> https://whitmanarchive.org/
-- Canadian Museum of History >> https://www.historymuseum.ca/
-- Virtual Museum of New France >> https://www.historymuseum.ca/virtual-museum-of-new-france/
-- the Fiji Museum's Virtual Museum  >> http://virtual.fijimuseum.org.fj/
-- Museum of Flight's Virtual Museum Online >> https://www.museumofflight.org/Explore-The-Museum/Virtual-Museum-Online
-- the Smithsonian Latino Center's Smithsonian Latino Virtual Museum >> https://latino.si.edu/
-- the Institute of Navigation's ION Virtual Museum >> https://www.ion.org/museum/
-- the Michigan Shipwreck Research Association's MSRA Virtual Museum >> https://www.michiganshipwrecks.org/virtual-museum-2 
-- the Georgia State Bar's Virtual Museum >> https://www.thelawmuseum.org/ 
-- Toledo's Attic >> https://toledosattic.org/
 ```
 
 
 ``` worth checking out 
 PREFORMA project >> http://www.preforma-project.eu/
 
-- " A Digital Curation Model (DCM)"
-- Describing Achives: A Content Standard (DACS)
+- " A Digital Curation Model (DCM)" -- HIggins 2008, photo saved in resources
+- Describing Achives: A Content Standard (DACS) https://www2.archivists.org/groups/technical-subcommittee-on-describing-archives-a-content-standard-dacs/describing-archives-a-content-standard-dacs-second-
+
+https://github.com/saa-ts-dacs/dacs
+
+https://saa-ts-dacs.github.io/
+
+
 - Art and Architecture Thesaurus 
 - Anglo-American Cataloguing Rules (AACR)
 - Resource Description and Access
