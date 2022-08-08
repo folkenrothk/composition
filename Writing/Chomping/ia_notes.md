@@ -1,5 +1,3 @@
-
-
 Goals:
 
 reflect details on technical, ethical, and modern humanities considerations. modernity
@@ -10,60 +8,24 @@ accessibility, integrity, authenticity, and usability.
 Technical practicality >>file types, data structure, and metadata standards 
 
 
-15?
-
+## Anderson / Blake
 
 ### Perseus 4.0
-
-    >Anderson & Blake
-    https://www.perseus.tufts.edu/hopper/
-
-
-Creator- Tufts University
-
-Last Updated: 
-
-    start 1985 planning
-          1987 establishment 
-          1992 Perseus 1.0
-
-          2006 TEI-XML collections
-
-    look at exhibits on R, 2008/09
-
-    > mission (under research tab)
-        v interesting goal
-    ```
-    ```
-
-    full record of humanity 
-
-    *Open source Tab > background
+https://www.perseus.tufts.edu/hopper/
 
 
 
 ### Europeana
+https://www.europeana.eu/en
 
-        >Anderson & Blake
-        https://www.europeana.eu/en
-
-
-    based in cultural heritage
-
-    created as exhibits // digital exhibits
-
-    "good to know"  "all metadata" "location"
-
-    chapters (heavy research/book style) vs very basic thing (just metadata)
-
-    || I like the flexible scale for the amount of info in an exhibit
-    update dates? how was it created?
 
 
 
 ### TELDAP
+https://teldap.tw/en/
 
     Very difficult to navigate
+
 
     a collection of collections
         very linked, and linked externally;; nothing internal until you are inside of the collection
@@ -72,19 +34,18 @@ Last Updated:
 
 
 ### Old Bailey Online
+https://www.oldbaileyonline.org/index.jsp
+    >> & Cohen
 
-    >> Andserson & Blake // Cohen
-    https://www.oldbaileyonline.org/index.jsp
 
     Last major update: 2018
 
 
 
 ### 5 EHRI -- European Holocaust Research Infrastructure
+https://www.ehri-project.eu/project-overview
+    >> & maryl et. al // etc
 
-
-    >> anderson & blake // maryl et. al // etc
-    https://www.ehri-project.eu/project-overview
 
 
 start 2010
@@ -92,15 +53,18 @@ start 2010
 The EHRI-3 project deepens the integration of Holocaust archives and research that has been undertaken by EHRI since 2010.
 
 ### YadVashem -- The World Holocaust Remembrance Center
+https://www.yadvashem.org/
 
-    >> anderson & blake 
-    https://www.yadvashem.org/
 
+
+## Maryl et al
 
 ### CENDARI
 
     >> Maryl et al
     http://www.cendari.eu/
+
+## Sabharwal 21
 
 ### Oral History Center: African American oral history collection
     >> Sab 21
@@ -182,7 +146,9 @@ https://archive.nelsonmandela.org/index.php/za-com-nmap-nelson-mandela-associate
     >> https://toledosattic.org/
 
 
+## LeftOvers
 
+### Trashed
 ```
 _e-Dance project_ https://projects.kmi.open.ac.uk/e-dance/
 _JISC_  https://www.jisc.ac.uk/about
@@ -195,6 +161,7 @@ _Dalitcamera.com_ https://www.dalitcamera.com/about/
 DESIR  +++ DARIAH  https://www.dariah.eu/about/mission-vision/ 
 ```
 
+### Double Takes
 ```
 - LaQuAT  >> https://core.ac.uk/download/pdf/158278794.pdf
 C&A 
@@ -211,6 +178,11 @@ MEA
 - The Library of Congress Digital Collections site  >> https://www.loc.gov/collections/
 ```
 
+### Other Notes
+https://programminghistorian.org/en/
+
+
+look back at TEI-XML and compliance
 
 ``` worth checking out 
 PREFORMA project >> http://www.preforma-project.eu/
