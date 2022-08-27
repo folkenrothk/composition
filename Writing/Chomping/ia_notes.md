@@ -7,6 +7,7 @@ accessibility, integrity, authenticity, and usability.
 
 Technical practicality >>file types, data structure, and metadata standards 
 
+# Resources
 
 ## Anderson / Blake
 
@@ -199,3 +200,25 @@ https://saa-ts-dacs.github.io/
 - Anglo-American Cataloguing Rules (AACR)
 - Resource Description and Access
 ```
+
+
+
+# Hidden Sheets in IA
+## Mission Statements
+
+### WPDHAC
+
+"to preserve and honor the historic struggle of Western Pennsylvanians with disabilities to attain human and civil rights. The Consortium educates the public about disability history in order to improve community access, participation and equal opportunity, and to ensure disability rights through existing and new policies and laws.
+use history to educate the larger community about ongoing advocacy for equal opportunity, full participation, and humane policies and laws."
+
+"The Western Pennsylvania Disability History and Action Consortium is a community-based archive that preserves and honors the historic struggle of people with disabilities to attain human and civil rights – and shares the lived experiences of today – in order to promote community access, participation and equal opportunity.					
+The Consortium’s vision is to engage the public in the dynamic history of people with disabilities, to honor people who were mistreated or denied their rights, to recognize the efforts of individuals with and without disabilities to effect positive change, and to raise public awareness of contemporary issues, including the ongoing effort to maintain humane policies and laws.					
+To promote the importance of: 1) preserving artifacts, collections, documents and narratives related to disability history in Western Pennsylvania; 2) recognizing local individuals, grassroots advocacy efforts, and organizations that participated in the historic struggle for disability civil rights, and 3) educating the public about this history and its relationship to ongoing efforts to maintain rights and ensure humane policies and laws.					
+To establish WPDHAC as a community-based archive and central resource for individuals and organizations that are interested in the preservation of materials related to disability history in Western Pennsylvania.		 	To develop outreach projects and media initiatives that increase public awareness of the community archive and educate the public about disability history in Western Pennsylvania and the ongoing effort to maintain rights and ensure humane policies and laws.		 
+To ensure that Western Pennsylvanians with disabilities are the primary and leading force in documenting and presenting disability history.		 	To create broad community understanding of the “wrongs” of the past,		 
+To engage community stakeholdersTo engage community stakeholders (advocates representing different types of disabilities, organizations, museums, historical societies, libraries, students and educators, government and elected officials, support service providers, program administrators and others) in the effort to preserve materials related to disability history in Western Pennsylvania.		 			
+To develop projects that encourage the preservation and accessibility of historic materials.		 			"
+
+###
+
+###
