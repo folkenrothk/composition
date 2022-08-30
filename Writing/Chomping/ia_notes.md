@@ -208,6 +208,8 @@ https://saa-ts-dacs.github.io/
 
 ### WPDHAC
 
+> cut because it was only linking out to other collections and focuesed more on 
+
 "to preserve and honor the historic struggle of Western Pennsylvanians with disabilities to attain human and civil rights. The Consortium educates the public about disability history in order to improve community access, participation and equal opportunity, and to ensure disability rights through existing and new policies and laws.
 use history to educate the larger community about ongoing advocacy for equal opportunity, full participation, and humane policies and laws."
 
