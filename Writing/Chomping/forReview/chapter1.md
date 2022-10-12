@@ -42,7 +42,7 @@ Along with the push for collaboration, this has brought forward the potential so
 
 <==main writing point======================>
 
-// lil conclusion?  /The novelty of the discipline reinforces our need to rely on the umbrella definition of digital curators: those who collect, organize, and then disseminate information to users digitally. //For this project, I will be working with the practice and methodologies rather than the discipline. //
+// lil conclusion?  //The novelty of the discipline reinforces our need to rely on the umbrella definition of digital curators: those who collect, organize, and then disseminate information to users digitally. //For this project, I will be working with the practice and methodologies rather than the discipline./
 
 ## Scoping Review
 
